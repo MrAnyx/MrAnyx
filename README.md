@@ -54,13 +54,7 @@ Actually I'm a full-stack web developer at <a href="https://www.icohup.com/">Ico
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MrAnyx&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&line_height=27&v=5" alt="Robin GitHub Stats" />
 <hr width="100%">
 
-<p align="center">
- <img align="center" width="150" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/NewLogoo2.png" /> 
- </br>
- Ing. Alberto Urbaez
- <br />
- <a href="https://albertourbaez.com/en">AlbertoUrbaez.com</a>
-</p>
+
 
 <p align="center">
  <img src="https://img.shields.io/github/forks/MrAnyx/MrAnyx" /> 
