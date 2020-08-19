@@ -50,8 +50,8 @@ Actually I'm a full-stack web developer at <a href="https://www.icohup.com/">Ico
 
 ## Github Data Analysis
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnyx&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MrAnyx&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&line_height=27&v=5" alt="Robin GitHub Stats" />
+<img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=MrAnyx&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&line_height=27" alt="Robin GitHub Stats" />
+
 <hr width="100%">
 
 
