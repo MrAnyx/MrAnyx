@@ -53,12 +53,6 @@ Actually I'm a full-stack web developer at <a href="https://www.icohup.com/">Ico
 <img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=MrAnyx&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&line_height=27" alt="Robin GitHub Stats" />
 </br>
 </br>
-<p align="center">
- <img src="https://img.shields.io/github/forks/MrAnyx/MrAnyx" /> 
- <img src="https://img.shields.io/github/stars/MrAnyx/MrAnyx"/> 
- <img src="https://img.shields.io/github/followers/MrAnyx"/>
- <img src="https://img.shields.io/github/watchers/MrAnyx/MrAnyx"/>
-</p>
 <p align="center"> 
   Visitors<br>
   <img src="https://profile-counter.glitch.me/MrAnyx/count.svg" />
