@@ -14,7 +14,7 @@
 
 Full-Stack (+1 years of experience) | Engineer student 
 
-Actually I'm a full-stack web developer at <a href="https://www.icohup.com/">Icohup</a>
+Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">Icohup</a>
 
 ## About me 
 
