@@ -94,9 +94,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 <a href="https://github.com/MrAnyx/TinyDB">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=TinyDB"/>
 </a>
-<a href="https://github.com/MrAnyx/TimePHP">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=TimePHP"/>
-</a>
+
 <a href="https://github.com/MrAnyx/CodePlate">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=CodePlate"/>
 </a>
