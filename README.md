@@ -89,9 +89,12 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 ## Github Data Analysis
 
-<img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=MrAnyx&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&line_height=27" alt="Robin GitHub Stats" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=MrAnyx&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&line_height=27" alt="Robin GitHub Stats" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnyx&layout=compact&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&line_height=27"/>
+
 </br>
 </br>
+
 <p align="center"> 
 Visitors<br>
 <img src="https://profile-counter.glitch.me/MrAnyx/count.svg" />
