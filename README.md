@@ -25,6 +25,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - :earth_africa: I'm from France
 - :computer: I like to learn and experiment new things
 - :love_you_gesture: I love to customize everything and leave my mark
+- :books: Currently learning VueJS and NuxtJS
 
 ## Skills and Tools
 
