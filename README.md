@@ -91,16 +91,16 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 ## Current projects
 
 <a href="https://github.com/MrAnyx/Project-BIOS">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=Project-BIOS"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=Project-BIOS"/>
 </a>
 <a href="https://github.com/MrAnyx/TinyDB">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=TinyDB"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=TinyDB"/>
 </a>
 <a href="https://github.com/MrAnyx/TimePHP">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=TimePHP"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=TimePHP"/>
 </a>
 <a href="https://github.com/MrAnyx/CodePlate">
-  <img height="150em"" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=CodePlate"/>
+  <img height="140em"" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=CodePlate"/>
 </a>
 
 
