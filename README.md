@@ -88,7 +88,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </br>
 </ul>
 
-## Current projects
+## Current projects i'm working on
 
 <a href="https://github.com/MrAnyx/Project-BIOS">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=Project-BIOS"/>
