@@ -1,6 +1,5 @@
 <img align="right" width="350" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/NewLogoo2.png">
 
-
 <h1>Hi, I'm Robin <img width="30px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/hand.gif"></h1>
 
 <a href="https://www.linkedin.com/in/robin-bidanchon-62020119a/"> <img align="left" alt="Robin B LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
