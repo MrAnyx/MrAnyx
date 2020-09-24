@@ -90,8 +90,8 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 ## Current projects i'm working on
 
-<a href="https://github.com/MrAnyx/InputValidator">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=InputValidator"/>
+<a href="https://github.com/MrAnyx/Skeleton-TimePHP">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=Skeleton-TimePHP"/>
 </a>
 <a href="https://github.com/MrAnyx/TinyDB">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=TinyDB"/>
