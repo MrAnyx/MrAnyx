@@ -25,7 +25,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - :computer: I like to learn and experiment new things
 - :love_you_gesture: I love to customize everything and leave my mark
 - :books: Currently learning [VueJS](https://github.com/vuejs/vue) and [NuxtJS](https://github.com/nuxt/nuxt.js)
-- :floppy_disk: ALso creating my own PHP framework called [TimePHP](https://github.com/MrAnyx/TimePHP)
+- :floppy_disk: Also creating my own MVC PHP framework called [TimePHP](https://github.com/MrAnyx/TimePHP)
 - :musical_note: Music addict
 
 ## Skills and Tools
