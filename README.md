@@ -1,4 +1,4 @@
-<img align="right" width="300" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/NewLogoo2.png">
+<img align="right" width="350" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/NewLogoo2.png">
 
 <h1>Hi, I'm Robin <img width="30px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/hand.gif"></h1>
 
@@ -23,7 +23,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 - :earth_africa: I'm from France
 - :computer: I like to learn and experiment new things
-- :love_you_gesture: I'm creating my own PHP blog using my PHP framework called [TimePHP](https://github.com/MrAnyx/TimePHP)
+- :love_you_gesture: I'm creating my own PHP blog using my framework called [TimePHP](https://github.com/MrAnyx/TimePHP)
 - :books: Currently learning [VueJS](https://github.com/vuejs/vue) and [NuxtJS](https://github.com/nuxt/nuxt.js)
 - :musical_note: Music addict
 
