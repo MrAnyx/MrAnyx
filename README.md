@@ -1,4 +1,4 @@
-<img align="right" width="350" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/NewLogoo2.png">
+<img align="right" width="300" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/NewLogoo2.png">
 
 <h1>Hi, I'm Robin <img width="30px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/hand.gif"></h1>
 
