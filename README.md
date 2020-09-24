@@ -23,9 +23,8 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 - :earth_africa: I'm from France
 - :computer: I like to learn and experiment new things
-- :love_you_gesture: I love to customize everything and leave my mark
+- :love_you_gesture: I'm creating my own PHP blog using my MVC PHP framework called [TimePHP](https://github.com/MrAnyx/TimePHP)
 - :books: Currently learning [VueJS](https://github.com/vuejs/vue) and [NuxtJS](https://github.com/nuxt/nuxt.js)
-- :floppy_disk: Also creating my own MVC PHP framework called [TimePHP](https://github.com/MrAnyx/TimePHP)
 - :musical_note: Music addict
 
 ## Skills and Tools
@@ -91,8 +90,8 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 ## Current projects i'm working on
 
-<a href="https://github.com/MrAnyx/Project-BIOS">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=Project-BIOS"/>
+<a href="https://github.com/MrAnyx/InputValidator">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=InputValidator"/>
 </a>
 <a href="https://github.com/MrAnyx/TinyDB">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=TinyDB"/>
