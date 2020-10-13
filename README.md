@@ -22,7 +22,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 :blue_heart: Programming
 
 - :earth_africa: I'm from France
-- :computer: I like to learn and experiment new things
+- :computer: I daily use : `.php` `.twig` `.html` `.css` `.js`. 
 - :love_you_gesture: I'm creating my own PHP framework called [TimePHP](https://github.com/TimePHP-org/TimePHP)
 - :books: Currently learning [VueJS](https://github.com/vuejs/vue) and [NuxtJS](https://github.com/nuxt/nuxt.js)
 - :musical_note: Music addict
