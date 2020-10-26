@@ -99,8 +99,8 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 <a href="https://github.com/TimePHP-org/TimePHP-Docs">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=TimePHP-org&repo=TimePHP-Docs"/>
 </a>
-<a href="https://github.com/MrAnyx/QuickLog_v2">
-  <img height="120em"" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=QuickLog_v2"/>
+<a href="https://github.com/MrAnyx/HashTag">
+  <img height="120em"" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=HashTag"/>
 </a>
 
 
