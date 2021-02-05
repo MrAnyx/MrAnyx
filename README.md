@@ -68,7 +68,8 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Affinity Designer-1B72BE?style=flat&logo=affinity-designer&logoColor=white">
 <img src="https://img.shields.io/badge/Linux Debian-A81D33?style=flat&logo=debian&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipse-ide&logoColor=white">
+<img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white">
+<img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
@@ -78,8 +79,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white">
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white">
 <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white">
 
 
