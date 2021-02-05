@@ -24,6 +24,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - :computer: I daily use : `.php` `.twig` `.html` `.css` `.js`. 
 - :love_you_gesture: I'm creating my own PHP framework called [TimePHP](https://github.com/TimePHP-org/TimePHP)
 - :books: Currently learning [VueJS](https://github.com/vuejs/vue)
+- :penguin: Having fun with WSL 2
 - :musical_note: Music addict
 
 ## Skills and Tools
