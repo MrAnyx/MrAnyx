@@ -39,6 +39,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 <img src="https://img.shields.io/badge/Json-000000?style=flat&logo=json&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MatLab-0076A8?style=flat&logo=mathworks&logoColor=white">
 <img src="https://img.shields.io/badge/C lang-A8B9CC?style=flat&logo=c&logoColor=white">
@@ -61,8 +62,8 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </br>
 <li>Tools</li>
 </br>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe XD-FF26BE?style=flat&logo=adobe-xd&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
