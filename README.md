@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Robin <img width="30px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/hand.gif"></h1>
 
-<a href="https://www.linkedin.com/in/robin-bidanchon-62020119a/"> <img align="left" alt="Robin B LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="https://www.linkedin.com/in/robin-bidanchon-62020119a/"> <img align="left" alt="Robin B LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009475911621"> <img align="left" alt="Robin B Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
 <a href="https://github.com/MrAnyx"> <img align="left" alt="Robin B Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
 <a href="https://instagram.com/rob.bch"> <img align="left" alt="Robin B Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
