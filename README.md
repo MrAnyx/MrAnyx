@@ -113,7 +113,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 <p align="center">
   <a href="https://github.com/MrAnyx">
-    <img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrAnyx&"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrAnyx&"/>
   </a>
 </p>
 
