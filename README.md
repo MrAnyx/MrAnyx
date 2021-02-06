@@ -109,8 +109,13 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 <a href="https://github.com/MrAnyx">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MrAnyx&show_icons=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnyx&layout=compact" />
-  <img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrAnyx&"/>
 </a>
+
+<p align="center">
+  <a href="https://github.com/MrAnyx">
+    <img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrAnyx&"/>
+  </a>
+</p>
 
 
 
