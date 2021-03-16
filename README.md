@@ -9,7 +9,6 @@
 <a href="https://twitter.com/MrAnyx"> <img align="left" alt="Robin B Twitter" width="22px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/twitter.svg"/></a>
 <a href="https://stackoverflow.com/users/11424334/mranyx"> <img align="left" alt="Robin B Stack Overflow" width="22px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/stackoverflow.svg"/></a>
 
-
 <br/>
 <br/>
 
