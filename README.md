@@ -13,9 +13,9 @@
 <br/>
 <br/>
 
-Full-Stack (~2 years of experience) | Engineer student 
+Full-Stack (~2 years of experience) | Engineer student | Auto-entrepreneur
 
-Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">Icohup</a>
+Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">Icohup</a>. I'm also the [Needlify](https://needlify.com/) creator.
 
 ## About me 
 
@@ -29,7 +29,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - :musical_note: Music addict
 
 ## Skills and Tools
-
 
 <ul>
 <li>Languages</li>
@@ -46,8 +45,10 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MatLab-0076A8?style=flat&logo=mathworks&logoColor=white">
 <img src="https://img.shields.io/badge/C lang-A8B9CC?style=flat&logo=c&logoColor=white">
+
 </br>
 </br>
+
 <li>Frameworks</li>
 </br>
 <img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white">
@@ -61,8 +62,10 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white">
+
 </br>
 </br>
+
 <li>Tools</li>
 </br>
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white">
