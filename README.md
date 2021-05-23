@@ -90,26 +90,19 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </br>
 </ul>
 
-## Current projects i'm working on
+## Last posts
 
-<a href="https://github.com/TimePHP-org/TimePHP">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=TimePHP-org&repo=TimePHP"/>
-</a>
-<a href="https://github.com/TimePHP-org/TimePHP-Skeleton">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=TimePHP-org&repo=TimePHP-Skeleton"/>
-</a>
-<a href="https://github.com/Buissartt/Linux-autohost">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Buissartt&repo=Linux-autohost"/>
-</a>
-<a href="https://github.com/MrAnyx/HashTag">
-  <img height="120em"" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAnyx&repo=HashTag"/>
-</a>
-
+- [Install and configure a fully functional web server on WSL 2](https://needlify.com/post/3110bef9-0cd4-4fba-bf44-3b4746db599f/install-and-configure-a-fully-functionnal-web-server-on-wsl-2/839e9e499b39588acd6be0911d8c38e67e36d30ba68730f19cb1cfb97c74d8d0)
+- [Remove snap app on Ubuntu 20](https://needlify.com/post/5055385a-6fc9-4f3a-a726-4ae81ba3b97a/remove-snap-app-on-ubuntu-20/68cafcd2af5f19889855e87340658716df0ca3913c63e8db3a7eda897c43e17e)
+- [Remove sensitive information in Apache error page](https://needlify.com/post/45981a27-5dfb-4f8f-b63c-aa4f1752baca/remove-sensitive-information-in-apache-error-page/86cd491b71763f443024b38599e237cf9b26800baf75a69b58e5e1ca535031ef)
+- [Prevent default image deletion with Easyadmin 3](https://needlify.com/post/bdcf5e0c-7825-4f07-9fc2-0f6606dc77e4/prevent-default-image-deletion-with-easyadmin-3/b0bc83b81618f19ad24a778c6b326acabc25bf89e1ca167f34c4b73180979254)
+- [Use a specific composer version](https://needlify.com/post/dac37365-3352-4f86-adf4-b966a9acf269/use-a-specific-composer-version/9e21e7460d3ecb44f42e11174725cb567a83cb5fdece50fd9cecac7aa127bc07)
+- [Enable Linux subsystem on Windows 10](https://needlify.com/post/dcd4d5e4-6d1c-4ffc-9cb3-97145395b487/enable-linux-subsystem-on-windows-10/79137bb299ba9a6bbf9d06309e09a4da7af37e1d4fa8a5f5b27707248a64c7f1)
+- [Install and enable virtualenv using Python 3](https://needlify.com/post/ce2987bb-d812-4fc0-9551-184f1757b18d/install-and-enable-virtualenv-using-python-3/d7ea1a3272cee90ed4e5de51cfd995c1d63a99d304ad182068d8f6ed98a3a239)
 
 
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MrAnyx&show_icons=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnyx&layout=compact" />
   <img height="170em" style="margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=MrAnyx&"/>
 </a>
