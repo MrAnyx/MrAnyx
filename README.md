@@ -103,8 +103,8 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnyx&layout=compact" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrAnyx&"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnyx&layout=compact" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrAnyx&"/>
 </a>
 
 </br>
