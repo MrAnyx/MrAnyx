@@ -96,6 +96,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 ## Last posts
 
+- [How to set vagrant command globally](https://needlify.com/post/2b0ac1fb-b233-4f3c-b9eb-6e93bd7aa51e/how-to-set-vagrant-command-globally/ae38c4561ae0239a93570c202db55678a671aaadadf06dc51be6667f76dba0eb)
 - [Install and configure a fully functional web server on WSL 2](https://needlify.com/post/3110bef9-0cd4-4fba-bf44-3b4746db599f/install-and-configure-a-fully-functionnal-web-server-on-wsl-2/839e9e499b39588acd6be0911d8c38e67e36d30ba68730f19cb1cfb97c74d8d0)
 - [Remove snap app on Ubuntu 20](https://needlify.com/post/5055385a-6fc9-4f3a-a726-4ae81ba3b97a/remove-snap-app-on-ubuntu-20/68cafcd2af5f19889855e87340658716df0ca3913c63e8db3a7eda897c43e17e)
 - [Remove sensitive information in Apache error page](https://needlify.com/post/45981a27-5dfb-4f8f-b63c-aa4f1752baca/remove-sensitive-information-in-apache-error-page/86cd491b71763f443024b38599e237cf9b26800baf75a69b58e5e1ca535031ef)
