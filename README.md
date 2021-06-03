@@ -96,6 +96,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 ## Last posts
 
+- [How to install and configure SSH with public and private keys](https://needlify.com/post/8d1172d3-5075-4f56-a57d-1bb6e7583514/how-to-install-and-configure-ssh-with-public-and-private-keys/349dd66f06f05cb7e352a7f5cc75e6b0f5ec37338d6f93933545990dc38bdbf2)
 - [How to set vagrant command globally](https://needlify.com/post/2b0ac1fb-b233-4f3c-b9eb-6e93bd7aa51e/how-to-set-vagrant-command-globally/ae38c4561ae0239a93570c202db55678a671aaadadf06dc51be6667f76dba0eb)
 - [Install and configure a fully functional web server on WSL 2](https://needlify.com/post/3110bef9-0cd4-4fba-bf44-3b4746db599f/install-and-configure-a-fully-functionnal-web-server-on-wsl-2/839e9e499b39588acd6be0911d8c38e67e36d30ba68730f19cb1cfb97c74d8d0)
 - [Remove snap app on Ubuntu 20](https://needlify.com/post/5055385a-6fc9-4f3a-a726-4ae81ba3b97a/remove-snap-app-on-ubuntu-20/68cafcd2af5f19889855e87340658716df0ca3913c63e8db3a7eda897c43e17e)
