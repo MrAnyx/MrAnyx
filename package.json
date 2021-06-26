@@ -1,0 +1,30 @@
+{
+  "name": "autoupdate",
+  "version": "1.0.0",
+  "description": "Github profile automation",
+  "main": "update.js",
+  "scripts": {
+    "update": "node update.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAnyx/MrAnyx.git"
+  },
+  "keywords": [
+    "automation",
+    "js",
+    "npm",
+    "github",
+    "readme"
+  ],
+  "author": "MrAnyx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrAnyx/MrAnyx/issues"
+  },
+  "homepage": "https://github.com/MrAnyx/MrAnyx#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fs": "0.0.1-security"
+  }
+}
