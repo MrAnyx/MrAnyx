@@ -1,11 +1,10 @@
-name: Update last Needlify posts
+name: latest blog posts
 on:
   schedule:
     - cron: '20 21 * * *'
-    
 jobs:
-  update-last-needlify-posts:
-    name: Update last Needlify posts
+  latest-blog-posts:
+    name: Latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -13,9 +12,9 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v2-beta
         with:
-          node-version: '13'
+          node-version: "13"
       - name: Install node dependencies
-        run: npm install
+        run: npm
       - name: Run script that gets latest blog posts
         run: npm run update
       - name: Git setup
@@ -27,3 +26,4 @@ jobs:
           git add .
           git commit -am "Feat: I (the github action) updated the readme file for you. I hope you like it ❤"
           git push
+
