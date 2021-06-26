@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Github profile automation",
   "main": "update.js",
+  "type": "module",
   "scripts": {
     "update": "node update.js"
   },
