@@ -17,9 +17,7 @@ const updateFeed = async () => {
 
         const feed = await fetchFeed();
         const articlesTitle = "## Last posts";
-        let updatedReadme = milestone;
-
-        updatedReadme += "\n" + readmePart1 + "\n" + articlesTitle;
+        let updatedReadme = readmePart1 + "\n" + milestone + "\n" + articlesTitle;
 
         feed.forEach(item => {
             updatedReadme += `\n- [${item.title}](${item.url})`;
