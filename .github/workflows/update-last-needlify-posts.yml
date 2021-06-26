@@ -1,7 +1,7 @@
 name: latest blog posts
 on:
   schedule:
-    - cron: '20 21 * * *'
+    - cron: '23 21 * * *'
 jobs:
   latest-blog-posts:
     name: Latest blog posts
