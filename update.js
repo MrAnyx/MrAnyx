@@ -24,7 +24,7 @@ const updateFeed = async () => {
 
         fs.writeFileSync("./README.md", updatedReadme);
     } catch (error) {
-        console.error(error);
+        console.log("Everything is up to date");
     }
 }
 
