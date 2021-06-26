@@ -1,7 +1,7 @@
 name: Update last Needlify posts
 on:
   schedule:
-    - cron: '10 21 * * 6'
+    - cron: '14 21 * * *'
     
 jobs:
   update-last-needlify-posts:
