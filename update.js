@@ -17,13 +17,15 @@ const updateFeed = async () => {
 
         const feed = await fetchFeed();
         const articlesTitle = "## Last posts";
-        let updatedReadme = "<!-- Update feed milestone -->\n" + readmePart1 + "\n" + articlesTitle;
+        let updatedReadme = milestone;
+
+        updatedReadme += "\n" + readmePart1 + "\n" + articlesTitle;
 
         feed.forEach(item => {
             updatedReadme += `\n- [${item.title}](${item.url})`;
         })
 
-        updatedReadme += "\n<!-- Update feed milestone -->" + readmePart2;
+        updatedReadme += "\n" + milestone + readmePart2;
 
         fs.writeFileSync("./README.md", updatedReadme);
     } catch (error) {
