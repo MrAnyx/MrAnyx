@@ -1,7 +1,7 @@
 name: Update last Needlify posts
 on:
   schedule:
-    - cron: '14 21 * * *'
+    - cron: '20 21 * * *'
     
 jobs:
   update-last-needlify-posts:
@@ -17,7 +17,7 @@ jobs:
       - name: Install node dependencies
         run: npm install
       - name: Run script that gets latest blog posts
-        run: npm run feed
+        run: npm run update
       - name: Git setup
         run: |
           git config user.name "${GITHUB_ACTOR}"
