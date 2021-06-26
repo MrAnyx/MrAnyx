@@ -10,19 +10,17 @@ const updateFeed = async () => {
     try {
         const readme = fs.readFileSync("./README.md", "utf8");
 
-        const milestone = "<!-- Update feed milestone -->";
-
-        let readmePart1 = readme.split(milestone)[0];
-        let readmePart2 = readme.split(milestone)[2];
+        let readmePart1 = readme.split("## Last posts")[0];
+        let readmePart2 = readme.split("## Last posts")[1].split("## Github Data Analysis")[1];
 
         const feed = await fetchFeed();
-        let updatedReadme = readmePart1 + "\n" + milestone;
+        let updatedReadme = readmePart1 + "\n## Last posts";
 
         feed.forEach(item => {
             updatedReadme += `\n- [${item.title}](${item.url})`;
         })
 
-        updatedReadme += "\n" + milestone + readmePart2;
+        updatedReadme += "\n## Github Data Analysis" + readmePart2;
 
         fs.writeFileSync("./README.md", updatedReadme);
     } catch (error) {
