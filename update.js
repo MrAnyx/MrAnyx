@@ -2,7 +2,7 @@ import fs from "fs";
 import axios from "axios";
 
 const fetchFeed = async () => {
-    const feedRequest = await axios(`${(process.argv.slice(2)[0])}`);
+    const feedRequest = await axios("https://needlify.com/api/github/posts/get");
     return feedRequest.data.posts;
 }
 

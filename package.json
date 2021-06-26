@@ -4,7 +4,7 @@
   "description": "Github profile automation",
   "main": "update.js",
   "scripts": {
-    "update": "node update.js ${{ secrets.NEEDLIFY_GET_POSTS_URL }}"
+    "update": "node update.js"
   },
   "repository": {
     "type": "git",
