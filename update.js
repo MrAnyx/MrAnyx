@@ -14,7 +14,7 @@ const updateFeed = async () => {
         let readmePart2 = readme.split("## Last posts")[1].split("## Github Data Analysis")[1];
 
         const feed = await fetchFeed();
-        let updatedReadme = readmePart1 + "\n## Last posts";
+        let updatedReadme = readmePart1 + "## Last posts";
 
         feed.forEach(item => {
             updatedReadme += `\n- [${item.title}](${item.url})`;
