@@ -95,6 +95,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </ul>
 
 ## Last posts
+- [How to install and configure PHP on windows 10](https://needlify.com/post/how-to-install-and-configure-php-on-windows-10-a7af093a)
 - [How to install and configure SSH with public and private keys](https://needlify.com/post/how-to-install-and-configure-ssh-with-public-and-private-keys-ab020931)
 - [How to set vagrant command globally](https://needlify.com/post/how-to-set-vagrant-command-globally-a2bc08a1)
 - [Install and configure a fully functional web server on WSL 2](https://needlify.com/post/install-and-configure-a-fully-functionnal-web-server-on-wsl-2-b1aa0954)
