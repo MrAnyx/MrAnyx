@@ -20,7 +20,7 @@ const updateFeed = async () => {
             updatedReadme += `\n- [${item.title}](${item.url})`;
         })
 
-        updatedReadme += "\n## Github Data Analysis" + readmePart2;
+        updatedReadme += "\n\n## Github Data Analysis" + readmePart2;
 
         fs.writeFileSync("./README.md", updatedReadme);
     } catch (error) {
