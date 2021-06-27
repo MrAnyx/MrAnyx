@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-Full-Stack (~2 years of experience) | Engineer student | Auto-entrepreneur
+Full-Stack developer (~2 years of experience) | Engineer student | Auto-entrepreneur
 
 Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">Icohup</a>. I'm also the [Needlify](https://needlify.com/) creator.
 
