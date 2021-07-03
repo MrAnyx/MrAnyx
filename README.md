@@ -30,6 +30,11 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - :penguin: Current mood : Having fun with WSL 2
 - :musical_note: Music addict
 
+## Projects i'm working on
+- [Needlify](https://github.com/Needlify/Needlify) : A platform to share and learn new things about new technologies
+- [Made-with-collection](https://github.com/MrAnyx/made-with-collection) : A `Made with` badge provider for websites
+- [TinyDB](https://github.com/MrAnyx/TinyDB) : Json based database for tiny php projects
+
 ## Skills and Tools
 
 <ul>
