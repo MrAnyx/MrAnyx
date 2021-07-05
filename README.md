@@ -100,6 +100,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </ul>
 
 ## Last posts
+- [TLDR - July 2021](https://needlify.com/post/tldr-july-2021-af890950)
 - [How to install and configure PHP on windows 10](https://needlify.com/post/how-to-install-and-configure-php-on-windows-10-a7af093a)
 - [How to install and configure SSH with public and private keys](https://needlify.com/post/how-to-install-and-configure-ssh-with-public-and-private-keys-ab020931)
 - [How to set vagrant command globally](https://needlify.com/post/how-to-set-vagrant-command-globally-a2bc08a1)
@@ -109,7 +110,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - [Prevent default image deletion with Easyadmin 3](https://needlify.com/post/prevent-default-image-deletion-with-easyadmin-3-a333091e)
 - [Use a specific composer version](https://needlify.com/post/use-a-specific-composer-version-b4190a07)
 - [Enable Linux subsystem on Windows 10](https://needlify.com/post/enable-linux-subsystem-on-windows-10-a2bc089b)
-- [Install and enable virtualenv using Python 3](https://needlify.com/post/install-and-enable-virtualenv-using-python-3-c0e409f1)
 
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
