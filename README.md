@@ -1,5 +1,3 @@
-<!-- Update feed milestone -->
-<img align="right" width="350" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/NewLogoo2.png">
 
 <h1>Hi, I'm Robin <img width="30px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/hand.gif"></h1>
 
@@ -50,8 +48,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/MatLab-0076A8?style=flat&logo=mathworks&logoColor=white">
-<img src="https://img.shields.io/badge/C lang-A8B9CC?style=flat&logo=c&logoColor=white">
 
 </br>
 </br>
@@ -62,13 +58,9 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 <img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/UiKit-2396F3?style=flat&logo=uikit&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white">
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white">
 
 </br>
 </br>
@@ -82,15 +74,12 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Affinity Designer-1B72BE?style=flat&logo=affinity-designer&logoColor=white">
 <img src="https://img.shields.io/badge/Linux Debian-A81D33?style=flat&logo=debian&logoColor=white">
-<img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white">
-<img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white">
@@ -113,8 +102,8 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnyx&layout=compact" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrAnyx&"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnyx&layout=compact" />
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MrAnyx&"/>
 </a>
 
 </br>
