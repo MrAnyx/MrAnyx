@@ -9,7 +9,6 @@
 <a href="https://stackoverflow.com/users/11424334/mranyx"> <img align="left" alt="Robin B Stack Overflow" width="22px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/stackoverflow.svg"/></a>
 <a href="https://needlify.com/me/MrAnyx"> <img align="left" alt="Robin B Needlify" width="22px" src="https://needlify.com/images/general/logo.svg"/></a>
 
-
 <br/>
 <br/>
 
