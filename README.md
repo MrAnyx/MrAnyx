@@ -88,6 +88,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </ul>
 
 ## Last posts
+- [How to implement the rate limiter component on a symfony 5 project](https://needlify.com/post/how-to-implement-the-rate-limiter-component-on-a-symfony-5-project-ac6b0982)
 - [How to switch the php version on ubuntu](https://needlify.com/post/how-to-switch-the-php-version-on-ubuntu-ab74097f)
 - [TLDR #1 - July 2021](https://needlify.com/post/tldr-july-2021-af890950)
 - [How to install and configure PHP on windows 10](https://needlify.com/post/how-to-install-and-configure-php-on-windows-10-a7af093a)
@@ -97,7 +98,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - [Remove snap app on Ubuntu 20](https://needlify.com/post/remove-snap-app-on-ubuntu-20-ad1409ac)
 - [Remove sensitive information in Apache error page](https://needlify.com/post/remove-sensitive-information-in-apache-error-page-c01e0a1b)
 - [Prevent default image deletion with Easyadmin 3](https://needlify.com/post/prevent-default-image-deletion-with-easyadmin-3-a333091e)
-- [Use a specific composer version](https://needlify.com/post/use-a-specific-composer-version-b4190a07)
 
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
