@@ -88,6 +88,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </ul>
 
 ## Last posts
+- [TLDR #2 - August 2021](https://needlify.com/post/tldr-2-august-2021-b52309a1)
 - [How to deploy a project to a remote server using git](https://needlify.com/post/how-to-deploy-a-project-to-a-remote-server-using-git-b3d809a7)
 - [How to implement the rate limiter component on a symfony 5 project](https://needlify.com/post/how-to-implement-the-rate-limiter-component-on-a-symfony-5-project-ac6b0982)
 - [How to switch the php version on ubuntu](https://needlify.com/post/how-to-switch-the-php-version-on-ubuntu-ab74097f)
@@ -97,7 +98,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - [How to set vagrant command globally](https://needlify.com/post/how-to-set-vagrant-command-globally-a2bc08a1)
 - [Install and configure a fully functional web server on WSL 2](https://needlify.com/post/install-and-configure-a-fully-functionnal-web-server-on-wsl-2-b1aa0954)
 - [Remove snap app on Ubuntu 20](https://needlify.com/post/remove-snap-app-on-ubuntu-20-ad1409ac)
-- [Remove sensitive information in Apache error page](https://needlify.com/post/remove-sensitive-information-in-apache-error-page-c01e0a1b)
 
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
