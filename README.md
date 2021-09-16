@@ -30,6 +30,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - [Needlify](https://github.com/Needlify) : A platform to share and learn new things about new technologies
 - [Made-with-collection](https://github.com/MrAnyx/made-with-collection) : A `Made with` badge provider for websites
 - [TinyDB](https://github.com/MrAnyx/TinyDB) : Json based database for tiny php projects
+- [Codeplate](https://github.com/Codeplate-app) : A boilerplate manager desktop app & website
 
 ## Skills and Tools
 
