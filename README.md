@@ -28,6 +28,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 ## Projects i'm working on
 - [Needlify](https://github.com/Needlify) : A platform to share and learn new things about new technologies
+- [Rainbow Console](https://github.com/MrAnyx/Rainbox-console) : A very lightweight PHP library to color text in the console
 - [Made-with-collection](https://github.com/MrAnyx/made-with-collection) : A `Made with` badge provider for websites
 - [TinyDB](https://github.com/MrAnyx/TinyDB) : Json based database for tiny php projects
 - [Codeplate](https://github.com/Codeplate-app) : A boilerplate manager desktop app & website
