@@ -89,6 +89,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </ul>
 
 ## Last posts
+- [How to install Pony on windows 10 using WSL 2](https://needlify.com/post/how-to-install-pony-on-windows-10-using-wsl-2-b9960a1d)
 - [How to configure ESLint and Prettier with VSCode](https://needlify.com/post/how-to-configure-eslint-and-prettier-with-vscode-ad8d0900)
 - [TLDR #3 - September 2021](https://needlify.com/post/tldr-3-september-2021-9c72088f)
 - [TLDR #2 - August 2021](https://needlify.com/post/tldr-2-august-2021-b52309a1)
@@ -98,7 +99,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - [TLDR #1 - July 2021](https://needlify.com/post/tldr-july-2021-af890950)
 - [How to install and configure PHP on windows 10](https://needlify.com/post/how-to-install-and-configure-php-on-windows-10-a7af093a)
 - [How to install and configure SSH with public and private keys](https://needlify.com/post/how-to-install-and-configure-ssh-with-public-and-private-keys-ab020931)
-- [How to set vagrant command globally](https://needlify.com/post/how-to-set-vagrant-command-globally-a2bc08a1)
 
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
