@@ -17,8 +17,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 ## About me 
 
-:blue_heart: Programming
-
+- :blue_heart: Programming
 - :earth_africa: I'm from France
 - :computer: I daily use : `.php` `.css` `.js` `.ts` `.py`. 
 - :love_you_gesture: I'm creating my own PHP framework called [TimePHP](https://github.com/TimePHP-org/TimePHP)
