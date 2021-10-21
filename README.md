@@ -19,8 +19,8 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 - :blue_heart: Programming
 - :earth_africa: I'm from France
-- :computer: I daily use : `.php` `.css` `.js` `.ts` `.py`. 
-- :love_you_gesture: I'm creating my own PHP framework called [TimePHP](https://github.com/TimePHP-org/TimePHP)
+- :computer: I daily use : `.php` `.css` `.js` `.ts` `.py`
+- :love_you_gesture: I'm creating my own knowledge sharing platform called [Needlify](https://needlify.com)
 - :books: Currently learning [VueJS](https://v3.vuejs.org/), [Typescript](https://www.typescriptlang.org/) and [ViteJS](https://vitejs.dev/)
 - :penguin: Current mood : Having fun with WSL 2 and [Pony](https://www.ponylang.io/)
 - :musical_note: Music addict
