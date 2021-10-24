@@ -88,7 +88,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </ul>
 
 ## Last posts
-- [VSCodedev a new development service from Microsoft](https://needlify.com/post/vscodedev-a-new-development-service-from-microsoft-a7d20918)
+- [VSCode.dev: the new development service from Microsoft](https://needlify.com/post/vscodedev-a-new-development-service-from-microsoft-a7d20918)
 - [TLDR #4 - October 2021](https://needlify.com/post/tldr-4-october-2021-a6bb08fa)
 - [How to install Pony on windows 10 using WSL 2](https://needlify.com/post/how-to-install-pony-on-windows-10-using-wsl-2-b9960a1d)
 - [How to configure ESLint and Prettier with VSCode](https://needlify.com/post/how-to-configure-eslint-and-prettier-with-vscode-ad8d0900)
