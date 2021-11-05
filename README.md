@@ -88,6 +88,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </ul>
 
 ## Last posts
+- [TLDR #5 - November 2021](https://needlify.com/post/tldr-5-november-2021-ace4098c)
 - [VSCode.dev: the new development service from Microsoft](https://needlify.com/post/vscodedev-a-new-development-service-from-microsoft-a7d20918)
 - [TLDR #4 - October 2021](https://needlify.com/post/tldr-4-october-2021-a6bb08fa)
 - [How to install Pony on windows 10 using WSL 2](https://needlify.com/post/how-to-install-pony-on-windows-10-using-wsl-2-b9960a1d)
@@ -97,7 +98,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - [How to deploy a project to a remote server using git](https://needlify.com/post/how-to-deploy-a-project-to-a-remote-server-using-git-b3d809a7)
 - [How to implement the rate limiter component on a symfony 5 project](https://needlify.com/post/how-to-implement-the-rate-limiter-component-on-a-symfony-5-project-ac6b0982)
 - [How to switch the php version on ubuntu](https://needlify.com/post/how-to-switch-the-php-version-on-ubuntu-ab74097f)
-- [TLDR #1 - July 2021](https://needlify.com/post/tldr-july-2021-af890950)
 
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
