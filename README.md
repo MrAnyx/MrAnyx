@@ -88,6 +88,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </ul>
 
 ## Last posts
+- [TLDR #6 - December 2021](https://needlify.com/post/tldr-6-december-2021-ad170990)
 - [SOLID Principles explained with examples](https://needlify.com/post/solid-principles-explained-with-examples-a84f0918)
 - [TLDR #5 - November 2021](https://needlify.com/post/tldr-5-november-2021-ace4098c)
 - [VSCode.dev: the new development service from Microsoft](https://needlify.com/post/vscodedev-a-new-development-service-from-microsoft-a7d20918)
@@ -97,7 +98,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - [TLDR #3 - September 2021](https://needlify.com/post/tldr-3-september-2021-9c72088f)
 - [TLDR #2 - August 2021](https://needlify.com/post/tldr-2-august-2021-b52309a1)
 - [How to deploy a project to a remote server using git](https://needlify.com/post/how-to-deploy-a-project-to-a-remote-server-using-git-b3d809a7)
-- [How to implement the rate limiter component on a symfony 5 project](https://needlify.com/post/how-to-implement-the-rate-limiter-component-on-a-symfony-5-project-ac6b0982)
 
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
