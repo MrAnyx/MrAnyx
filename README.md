@@ -88,6 +88,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </ul>
 
 ## Last posts
+- [What is the difference between introspection and reflexivity](https://needlify.com/post/what-is-the-difference-between-introspection-and-reflexivity-c7e20a64)
 - [TLDR #6 - December 2021](https://needlify.com/post/tldr-6-december-2021-ad170990)
 - [SOLID Principles explained with examples](https://needlify.com/post/solid-principles-explained-with-examples-a84f0918)
 - [TLDR #5 - November 2021](https://needlify.com/post/tldr-5-november-2021-ace4098c)
@@ -97,7 +98,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - [How to configure ESLint and Prettier with VSCode](https://needlify.com/post/how-to-configure-eslint-and-prettier-with-vscode-ad8d0900)
 - [TLDR #3 - September 2021](https://needlify.com/post/tldr-3-september-2021-9c72088f)
 - [TLDR #2 - August 2021](https://needlify.com/post/tldr-2-august-2021-b52309a1)
-- [How to deploy a project to a remote server using git](https://needlify.com/post/how-to-deploy-a-project-to-a-remote-server-using-git-b3d809a7)
 
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
