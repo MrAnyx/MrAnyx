@@ -88,6 +88,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </ul>
 
 ## Last posts
+- [How to fix the shortcut error when using Github Copilot on VSCode](https://needlify.com/post/how-to-fix-the-shortcut-error-when-using-github-copilot-on-vscode-b3a209b5)
 - [TLDR #7 - January 2022](https://needlify.com/post/tldr-7-january-2022-aef60955)
 - [What is the difference between introspection and reflexivity](https://needlify.com/post/what-is-the-difference-between-introspection-and-reflexivity-c7e20a64)
 - [TLDR #6 - December 2021](https://needlify.com/post/tldr-6-december-2021-ad170990)
@@ -97,7 +98,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - [TLDR #4 - October 2021](https://needlify.com/post/tldr-4-october-2021-a6bb08fa)
 - [How to install Pony on windows 10 using WSL 2](https://needlify.com/post/how-to-install-pony-on-windows-10-using-wsl-2-b9960a1d)
 - [How to configure ESLint and Prettier with VSCode](https://needlify.com/post/how-to-configure-eslint-and-prettier-with-vscode-ad8d0900)
-- [TLDR #3 - September 2021](https://needlify.com/post/tldr-3-september-2021-9c72088f)
 
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
