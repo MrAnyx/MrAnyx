@@ -67,8 +67,8 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 <li>Tools</li>
 </br>
-<img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white">
 <img src="https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe XD-FF26BE?style=flat&logo=adobe-xd&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
