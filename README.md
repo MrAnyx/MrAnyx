@@ -102,15 +102,15 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnyx&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MrAnyx&show_icons=true&include_all_commits=true&hide_border=true" />
   <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=MrAnyx&"/>
 </a>
-
+<!-- 
 </br>
-</br>
+</br> -->
 
-<p align="center"> 
+<!-- <p align="center"> 
 Visitors<br>
 <img src="https://profile-counter.glitch.me/MrAnyx/count.svg" />
-</p>
+</p> -->
 
