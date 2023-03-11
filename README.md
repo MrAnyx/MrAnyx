@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Robin</h1>
-<a href="https://www.linkedin.com/in/robin-bidanchon-62020119a/"> <img align="left" alt="Robin B LinkedIn" width="22px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/linkedin.svg"/></a>
+<a href="https://www.linkedin.com/in/rob-bch/"> <img align="left" alt="Robin B LinkedIn" width="22px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/linkedin.svg"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009475911621"> <img align="left" alt="Robin B Facebook" width="22px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/facebook.svg"/></a>
 <a href="https://github.com/MrAnyx"> <img align="left" alt="Robin B Github" width="22px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/github.svg"/></a>
 <a href="https://instagram.com/rob.bch"> <img align="left" alt="Robin B Instagram" width="22px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/instagram.svg"/></a>
