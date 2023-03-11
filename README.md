@@ -6,7 +6,7 @@
 <a href="https://instagram.com/rob.bch"> <img align="left" alt="Robin B Instagram" width="22px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/instagram.svg"/></a>
 <a href="https://twitter.com/MrAnyx"> <img align="left" alt="Robin B Twitter" width="22px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/twitter.svg"/></a>
 <a href="https://stackoverflow.com/users/11424334/mranyx"> <img align="left" alt="Robin B Stack Overflow" width="22px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/stackoverflow.svg"/></a>
-<a href="https://needlify.com"> <img align="left" alt="Needlify" width="22px" src="https://needlify.com/images/logo/logo.svg"/></a>
+<a href="https://needlify.com"> <img align="left" alt="Needlify" width="22px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/needlify.svg"/></a>
 
 <br/>
 <br/>
@@ -17,12 +17,12 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 ## About me 
 
-- :blue_heart: Programming
+- ❤️: Programming
 - :earth_africa: I'm from France
-- :computer: I daily use : `.php` `.css` `.js` `.ts` `.py`
-- :love_you_gesture: I'm creating my own knowledge sharing platform called [Needlify](https://needlify.com)
-- :books: Currently learning [VueJS](https://v3.vuejs.org/), [Typescript](https://www.typescriptlang.org/) and [ViteJS](https://vitejs.dev/)
-- :penguin: Current mood : Having fun with WSL 2 and [Pony](https://www.ponylang.io/)
+- :computer: I daily use : `.php` `.css` `.js` `.ts` `.vue`
+- :love_you_gesture: I created my own knowledge sharing platform called [Needlify](https://needlify.com)
+- :books: Currently learning [Docker](https://www.docker.com/)
+- :penguin: Current mood : Having fun writing posts on my blog
 - :musical_note: Music addict
 
 ## Projects i'm working on
