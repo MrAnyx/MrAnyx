@@ -88,18 +88,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 </br>
 </ul>
 
-## Last posts
-- [TLDR #9 - March 2022](https://needlify.com/post/tldr-9-march-2022-b4cb09f8)
-- [TLDR #8 - February 2022](https://needlify.com/post/tldr-8-february-2022-b21f09ac)
-- [How to fix the shortcut error when using Github Copilot on VSCode](https://needlify.com/post/how-to-fix-the-shortcut-error-when-using-github-copilot-on-vscode-b3a209b5)
-- [TLDR #7 - January 2022](https://needlify.com/post/tldr-7-january-2022-aef60955)
-- [What is the difference between introspection and reflexivity](https://needlify.com/post/what-is-the-difference-between-introspection-and-reflexivity-c7e20a64)
-- [TLDR #6 - December 2021](https://needlify.com/post/tldr-6-december-2021-ad170990)
-- [SOLID Principles explained with examples](https://needlify.com/post/solid-principles-explained-with-examples-a84f0918)
-- [TLDR #5 - November 2021](https://needlify.com/post/tldr-5-november-2021-ace4098c)
-- [VSCode.dev: the new development service from Microsoft](https://needlify.com/post/vscodedev-a-new-development-service-from-microsoft-a7d20918)
-- [TLDR #4 - October 2021](https://needlify.com/post/tldr-4-october-2021-a6bb08fa)
-
 ## Github Data Analysis
 <a href="https://github.com/MrAnyx">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MrAnyx&show_icons=true&include_all_commits=true&hide_border=true" />
