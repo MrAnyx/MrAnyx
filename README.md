@@ -21,7 +21,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 - :earth_africa: I'm from France
 - :computer: I daily use : `.php` `.css` `.js` `.ts` `.vue`
 - :love_you_gesture: I created my own knowledge sharing platform called [Needlify](https://needlify.com)
-- :books: Currently learning [Docker](https://www.docker.com/)
+- :books: Currently learning [C#](https://dotnet.microsoft.com/languages/csharp) and [Powershell](https://learn.microsoft.com/powershell/scripting/overview?view=powershell-7.3)
 - :penguin: Current mood : Having fun writing posts on my blog
 - :musical_note: Music addict
 
