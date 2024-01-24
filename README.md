@@ -27,11 +27,7 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 
 ## Projects i'm working on
 - [Needlify](https://github.com/Needlify) : A platform to share and learn new things about new technologies
-- [Notice](https://github.com/MrAnyx/Notice) : A thread based blogging platform focused on privacy
-- [Rainbow Console](https://github.com/MrAnyx/Rainbox-console) : A very lightweight PHP library to color text in the console
-- [Made-with-collection](https://github.com/MrAnyx/made-with-collection) : A `Made with` badge provider for websites
-- [TinyDB](https://github.com/MrAnyx/TinyDB) : Json based database for tiny php projects
-- [Codeplate](https://github.com/Codeplate-app) : A boilerplate manager desktop app & website
+- Flashcard : A spaced repetition web app that uses a Symfony REST API as a [backend](https://github.com/MrAnyx/Flashcard-API) and a Vuejs app as a [frontend](https://github.com/MrAnyx/Flashcard-App)
 
 ## Skills and Tools
 
@@ -58,8 +54,6 @@ Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">I
 <img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white">
-<img src="https://img.shields.io/badge/UiKit-2396F3?style=flat&logo=uikit&logoColor=white">
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white">
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white">
 
 </br>
