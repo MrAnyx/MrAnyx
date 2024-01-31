@@ -11,9 +11,9 @@
 <br/>
 <br/>
 
-Full-Stack web developer (~4 years of experience) | Software Engineer | Auto-entrepreneur
+Full-Stack web developer (~4 years of experience) | Software Engineer
 
-Currently, I'm a full-stack web developer at <a href="https://www.icohup.com/">Icohup</a>. I'm also the creator of [Needlify](https://needlify.com/) and an auto-entrepreneur with my company called [Codeon](https://codeon.fr/).
+Currently, I'm a software engineer at <a href="https://metalor.com/">Metalor Technologies</a>. I'm also the creator of [Needlify](https://needlify.com/).
 
 ## About me 
 
