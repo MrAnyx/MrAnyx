@@ -17,7 +17,7 @@ Currently, I'm a software engineer at <a href="https://metalor.com/">Metalor Tec
 
 ## About me 
 
-- ❤️: Programming
+- ❤️ Programming
 - :earth_africa: I'm from France
 - :computer: I daily use : `.php` `.css` `.js` `.ts` `.vue`
 - :love_you_gesture: I created my own knowledge sharing platform called [Needlify](https://needlify.com)
