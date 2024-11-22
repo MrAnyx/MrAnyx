@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-Full-Stack web developer (~5 years of experience) | Software Engineer
+Full-Stack web developer (~6 years of experience) | Software Engineer
 
 Currently, I'm a software engineer at <a href="https://metalor.com/">Metalor Technologies</a>. I'm also the creator of [Needlify](https://needlify.com/).
 
